@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on building MERN (MongoDB, Express.js, React, Node.js) web applications.<br>👯 Looking to collaborate on exciting MERN projects and contribute my full-stack expertise.<br>🤝 Seeking help with advanced MERN concepts and optimization techniques.<br>🌱 Currently learning about serverless architecture and exploring cloud services.<br>💬 Ask me about MERN development, RESTful APIs, or state management with Redux.<br>⚡ Fun fact: I enjoy participating in hackathons to challenge my problem-solving skills.
+🔭 Currently working on building MERN Stack (MongoDB, Express.js, React, Node.js) web applications.<br>👯 Looking to collaborate on exciting MERN projects and contribute my full-stack expertise.<br>🤝 Seeking help with advanced MERN concepts and optimization techniques.<br>🌱 Currently learning about serverless architecture and exploring cloud services.<br>💬 Ask me about MERN development, RESTful APIs, or state management with Redux.<br>⚡ Fun fact: I enjoy participating in hackathons to challenge my problem-solving skills.
 
 
 ## 🌐 Socials:
